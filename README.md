@@ -6,4 +6,8 @@
 * fgx.co.za
 * https://rainboxprod.coop/en/
 
+### Industry News
+
+* https://digitalsynopsis.com/
+
 
