@@ -10,6 +10,7 @@
 ### 3D
 
 * [http://digicreatures.net/](http://digicreatures.net/)
+* [https://blenderartists.org/t/sphinge/688229](https://blenderartists.org/t/sphinge/688229)
 
 ### Agencies
 
@@ -27,5 +28,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MTc0MDM4Nl19
+eyJoaXN0b3J5IjpbLTEzMjgxNzQ0MzMsLTQ1MTc0MDM4Nl19
 -->
