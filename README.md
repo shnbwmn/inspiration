@@ -20,6 +20,10 @@
 
 * https://digitalsynopsis.com/
 
+### Designers
+
+* [https://gent.media/](https://gent.media/) - works @ Huawei
+
 ### Video Production
 
 * https://rainboxprod.coop/en/
@@ -28,5 +32,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjgxNzQ0MzMsLTQ1MTc0MDM4Nl19
+eyJoaXN0b3J5IjpbMTExMTc0MDc2OSwtMTMyODE3NDQzMywtND
+UxNzQwMzg2XX0=
 -->
