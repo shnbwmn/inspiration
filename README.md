@@ -22,7 +22,7 @@
 
 ### Designers
 
-* [https://gent.media/](https://gent.media/) - works @ Huawei
+* [https://gent.media/](https://gent.media/) - Mikhail Sharanda / works @ Huawei
 
 ### Video Production
 
@@ -32,6 +32,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMTc0MDc2OSwtMTMyODE3NDQzMywtND
-UxNzQwMzg2XX0=
+eyJoaXN0b3J5IjpbODcyNzIxMzMzLC0xMzI4MTc0NDMzLC00NT
+E3NDAzODZdfQ==
 -->
