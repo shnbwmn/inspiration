@@ -30,10 +30,15 @@
 
 * https://rainboxprod.coop/en/
 
+### Cool brands / sites
+
+* https://www.united.com/en/us/
+* [https://www.hrw.org/](https://www.hrw.org/)
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg4OTg2NTkzLDg3MjcyMTMzMywtMTMyOD
-E3NDQzMywtNDUxNzQwMzg2XX0=
+eyJoaXN0b3J5IjpbLTk5ODY0NzUzMyw1ODg5ODY1OTMsODcyNz
+IxMzMzLC0xMzI4MTc0NDMzLC00NTE3NDAzODZdfQ==
 -->
