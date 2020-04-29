@@ -23,7 +23,8 @@
 ### Designers
 
 * [https://gent.media/](https://gent.media/) - Mikhail Sharanda / works @ Huawei
-* 
+* [https://hicksdesign.co.uk/](https://hicksdesign.co.uk/) - designed Firefox logo
+	* [http://iconhandbook.co.uk/](http://iconhandbook.co.uk/)
 
 ### Video Production
 
@@ -33,6 +34,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MzUyNjAzNSw4NzI3MjEzMzMsLTEzMj
-gxNzQ0MzMsLTQ1MTc0MDM4Nl19
+eyJoaXN0b3J5IjpbNTg4OTg2NTkzLDg3MjcyMTMzMywtMTMyOD
+E3NDQzMywtNDUxNzQwMzg2XX0=
 -->
