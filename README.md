@@ -37,8 +37,9 @@
 
 ### Cool brands / sites
 
-* https://www.united.com/en/us/
-* [https://www.hrw.org/](https://www.hrw.org/)
+* https://www.united.com/en/us/ - solid logo
+* [https://www.hrw.org/](https://www.hrw.org/) - lovely textual layout and logo
+* [https://maverick.com/](https://maverick.com/) - created by Madonna
 
 ### Museums
 
@@ -48,6 +49,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMzI1NTUxOCw1ODg5ODY1OTMsODcyNz
-IxMzMzLC0xMzI4MTc0NDMzLC00NTE3NDAzODZdfQ==
+eyJoaXN0b3J5IjpbMTc5NTMzNjkyMSwyMTIzMjU1NTE4LDU4OD
+k4NjU5Myw4NzI3MjEzMzMsLTEzMjgxNzQ0MzMsLTQ1MTc0MDM4
+Nl19
 -->
