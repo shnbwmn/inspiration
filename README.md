@@ -37,6 +37,8 @@
 * [https://www.hrw.org/](https://www.hrw.org/) - lovely textual layout and logo
 * [https://maverick.com/](https://maverick.com/) - created by Madonna
 
+Case 
+
 ### Museums
 
 * https://www.mfa.org/
@@ -45,7 +47,8 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTg2NjYyMTgsLTM1MDQ5MzEyMCwxNz
-k1MzM2OTIxLDIxMjMyNTU1MTgsNTg4OTg2NTkzLDg3MjcyMTMz
-MywtMTMyODE3NDQzMywtNDUxNzQwMzg2XX0=
+eyJoaXN0b3J5IjpbLTQ4NjczMzI4OCwtMTk5ODY2NjIxOCwtMz
+UwNDkzMTIwLDE3OTUzMzY5MjEsMjEyMzI1NTUxOCw1ODg5ODY1
+OTMsODcyNzIxMzMzLC0xMzI4MTc0NDMzLC00NTE3NDAzODZdfQ
+==
 -->
