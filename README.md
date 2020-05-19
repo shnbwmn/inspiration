@@ -33,6 +33,7 @@
 * [http://www.whitneyleebell.com/](http://www.whitneyleebell.com/)
 * [https://hicksdesign.co.uk/](https://hicksdesign.co.uk/)
 * [https://courtny.co/](https://courtny.co/)
+* [http://www.aaronlawrencedesign.com/aaron-lawrence-ux-and-ui-designer-in-sf.html](http://www.aaronlawrencedesign.com/aaron-lawrence-ux-and-ui-designer-in-sf.html)
 
 ### Cool brands / sites
 
@@ -50,12 +51,14 @@
 
 ### Artists
 
-* 
+* [http://bradblackman.com/](http://bradblackman.com/)
+* [https://www.davidrevoy.com/](https://www.davidrevoy.com/)
+* [http://www.walterheverett.com/](http://www.walterheverett.com/)
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNzY2OTE3LDEyOTY5MDAxNTAsLTcyNj
+eyJoaXN0b3J5IjpbNTM0OTg1NTUxLDEyOTY5MDAxNTAsLTcyNj
 EwMzUxOSwtMTk5ODY2NjIxOCwtMzUwNDkzMTIwLDE3OTUzMzY5
 MjEsMjEyMzI1NTUxOCw1ODg5ODY1OTMsODcyNzIxMzMzLC0xMz
 I4MTc0NDMzLC00NTE3NDAzODZdfQ==
