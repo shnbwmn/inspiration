@@ -37,7 +37,9 @@
 * [https://www.hrw.org/](https://www.hrw.org/) - lovely textual layout and logo
 * [https://maverick.com/](https://maverick.com/) - created by Madonna
 
-Case 
+### Case studies
+
+* [https://blog.mozilla.org/opendesign/firefox-the-evolution-of-a-brand/](https://blog.mozilla.org/opendesign/firefox-the-evolution-of-a-brand/)
 
 ### Museums
 
@@ -47,7 +49,7 @@ Case
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NjczMzI4OCwtMTk5ODY2NjIxOCwtMz
+eyJoaXN0b3J5IjpbLTcyNjEwMzUxOSwtMTk5ODY2NjIxOCwtMz
 UwNDkzMTIwLDE3OTUzMzY5MjEsMjEyMzI1NTUxOCw1ODg5ODY1
 OTMsODcyNzIxMzMzLC0xMzI4MTc0NDMzLC00NTE3NDAzODZdfQ
 ==
