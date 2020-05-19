@@ -9,22 +9,16 @@
 * https://www.pixar.com/
 * [Pentagram — The world's largest independent design consultancy](https://www.pentagram.com/)
 
-### 3D
+### 3D & Animation
 
 * [http://digicreatures.net/](http://digicreatures.net/)
 * [https://blenderartists.org/t/sphinge/688229](https://blenderartists.org/t/sphinge/688229)
-
-### Animation
-
 * https://animade.tv/
+* [https://www.tangent-animation.com/](https://www.tangent-animation.com/)
 
 ### Agencies
 
 * https://fgx.co.za/
-
-### Industry News
-
-* https://digitalsynopsis.com/
 
 ### Designers
 
@@ -50,7 +44,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUzODE5OTE0LDE3OTUzMzY5MjEsMjEyMz
-I1NTUxOCw1ODg5ODY1OTMsODcyNzIxMzMzLC0xMzI4MTc0NDMz
-LC00NTE3NDAzODZdfQ==
+eyJoaXN0b3J5IjpbMjA1NzUzNTgxMSwxNzk1MzM2OTIxLDIxMj
+MyNTU1MTgsNTg4OTg2NTkzLDg3MjcyMTMzMywtMTMyODE3NDQz
+MywtNDUxNzQwMzg2XX0=
 -->
