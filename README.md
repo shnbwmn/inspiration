@@ -8,6 +8,7 @@
 * https://www.ilm.com/
 * https://www.pixar.com/
 * [Pentagram — The world's largest independent design consultancy](https://www.pentagram.com/)
+* [https://sagmeisterwalsh.com/](https://sagmeisterwalsh.com/)
 
 ### 3D & Animation
 
@@ -45,7 +46,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MDQ5MzEyMCwxNzk1MzM2OTIxLDIxMj
-MyNTU1MTgsNTg4OTg2NTkzLDg3MjcyMTMzMywtMTMyODE3NDQz
-MywtNDUxNzQwMzg2XX0=
+eyJoaXN0b3J5IjpbLTI4Mjk1MDk5OSwtMzUwNDkzMTIwLDE3OT
+UzMzY5MjEsMjEyMzI1NTUxOCw1ODg5ODY1OTMsODcyNzIxMzMz
+LC0xMzI4MTc0NDMzLC00NTE3NDAzODZdfQ==
 -->
