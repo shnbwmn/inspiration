@@ -30,6 +30,9 @@
 * [https://gent.media/](https://gent.media/) - Mikhail Sharanda / works @ Huawei
 * [https://hicksdesign.co.uk/](https://hicksdesign.co.uk/) - designed Firefox logo
 	* [http://iconhandbook.co.uk/](http://iconhandbook.co.uk/)
+* [http://www.whitneyleebell.com/](http://www.whitneyleebell.com/)
+* [https://hicksdesign.co.uk/](https://hicksdesign.co.uk/)
+* [https://courtny.co/](https://courtny.co/)
 
 ### Cool brands / sites
 
@@ -49,8 +52,8 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNjEwMzUxOSwtMTk5ODY2NjIxOCwtMz
-UwNDkzMTIwLDE3OTUzMzY5MjEsMjEyMzI1NTUxOCw1ODg5ODY1
-OTMsODcyNzIxMzMzLC0xMzI4MTc0NDMzLC00NTE3NDAzODZdfQ
-==
+eyJoaXN0b3J5IjpbMTI5NjkwMDE1MCwtNzI2MTAzNTE5LC0xOT
+k4NjY2MjE4LC0zNTA0OTMxMjAsMTc5NTMzNjkyMSwyMTIzMjU1
+NTE4LDU4ODk4NjU5Myw4NzI3MjEzMzMsLTEzMjgxNzQ0MzMsLT
+Q1MTc0MDM4Nl19
 -->
