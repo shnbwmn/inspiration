@@ -7,6 +7,7 @@
 
 * https://www.ilm.com/
 * https://www.pixar.com/
+* [Pentagram — The world's largest independent design consultancy](https://www.pentagram.com/)
 
 ### 3D
 
@@ -49,7 +50,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NTMzNjkyMSwyMTIzMjU1NTE4LDU4OD
-k4NjU5Myw4NzI3MjEzMzMsLTEzMjgxNzQ0MzMsLTQ1MTc0MDM4
-Nl19
+eyJoaXN0b3J5IjpbMjUzODE5OTE0LDE3OTUzMzY5MjEsMjEyMz
+I1NTUxOCw1ODg5ODY1OTMsODcyNzIxMzMzLC0xMzI4MTc0NDMz
+LC00NTE3NDAzODZdfQ==
 -->
