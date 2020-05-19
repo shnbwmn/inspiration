@@ -55,11 +55,17 @@
 * [https://www.davidrevoy.com/](https://www.davidrevoy.com/)
 * [http://www.walterheverett.com/](http://www.walterheverett.com/)
 
+### Quotes
+
+> Practice safe design – always use a concept.
+
+> If you can’t explain it to a six year old, you don’t understand it yourself.
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM0OTg1NTUxLDEyOTY5MDAxNTAsLTcyNj
-EwMzUxOSwtMTk5ODY2NjIxOCwtMzUwNDkzMTIwLDE3OTUzMzY5
-MjEsMjEyMzI1NTUxOCw1ODg5ODY1OTMsODcyNzIxMzMzLC0xMz
-I4MTc0NDMzLC00NTE3NDAzODZdfQ==
+eyJoaXN0b3J5IjpbLTcyNzY1ODEwMSwxMjk2OTAwMTUwLC03Mj
+YxMDM1MTksLTE5OTg2NjYyMTgsLTM1MDQ5MzEyMCwxNzk1MzM2
+OTIxLDIxMjMyNTU1MTgsNTg4OTg2NTkzLDg3MjcyMTMzMywtMT
+MyODE3NDQzMywtNDUxNzQwMzg2XX0=
 -->
