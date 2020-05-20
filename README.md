@@ -18,6 +18,7 @@
 * [https://www.tangent-animation.com/](https://www.tangent-animation.com/)
 * [https://www.unexpected.de/](https://www.unexpected.de/)
 * https://rainboxprod.coop/en/
+* [https://stuffmatic.com/](https://stuffmatic.com/)
 
 ### Agencies
 
@@ -68,8 +69,9 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Nzk3NzcwMjcsLTcyNzY1ODEwMSwxMj
-k2OTAwMTUwLC03MjYxMDM1MTksLTE5OTg2NjYyMTgsLTM1MDQ5
-MzEyMCwxNzk1MzM2OTIxLDIxMjMyNTU1MTgsNTg4OTg2NTkzLD
-g3MjcyMTMzMywtMTMyODE3NDQzMywtNDUxNzQwMzg2XX0=
+eyJoaXN0b3J5IjpbLTUwMDc0OTQ0MiwtMTg3OTc3NzAyNywtNz
+I3NjU4MTAxLDEyOTY5MDAxNTAsLTcyNjEwMzUxOSwtMTk5ODY2
+NjIxOCwtMzUwNDkzMTIwLDE3OTUzMzY5MjEsMjEyMzI1NTUxOC
+w1ODg5ODY1OTMsODcyNzIxMzMzLC0xMzI4MTc0NDMzLC00NTE3
+NDAzODZdfQ==
 -->
