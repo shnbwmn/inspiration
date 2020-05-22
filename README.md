@@ -26,6 +26,7 @@
 * https://fgx.co.za/
 * [https://flatstudio.co/](https://flatstudio.co/)
 * [https://tegra.co/](https://tegra.co/)
+* [https://bibliothequedesign.com/](https://bibliothequedesign.com/)
 
 ### Designers
 
@@ -71,9 +72,10 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NTg2ODUwNywxNTU3MTc0NTI3LC01MD
-A3NDk0NDIsLTE4Nzk3NzcwMjcsLTcyNzY1ODEwMSwxMjk2OTAw
-MTUwLC03MjYxMDM1MTksLTE5OTg2NjYyMTgsLTM1MDQ5MzEyMC
-wxNzk1MzM2OTIxLDIxMjMyNTU1MTgsNTg4OTg2NTkzLDg3Mjcy
-MTMzMywtMTMyODE3NDQzMywtNDUxNzQwMzg2XX0=
+eyJoaXN0b3J5IjpbLTI5MzI2NzA3NiwxOTY1ODY4NTA3LDE1NT
+cxNzQ1MjcsLTUwMDc0OTQ0MiwtMTg3OTc3NzAyNywtNzI3NjU4
+MTAxLDEyOTY5MDAxNTAsLTcyNjEwMzUxOSwtMTk5ODY2NjIxOC
+wtMzUwNDkzMTIwLDE3OTUzMzY5MjEsMjEyMzI1NTUxOCw1ODg5
+ODY1OTMsODcyNzIxMzMzLC0xMzI4MTc0NDMzLC00NTE3NDAzOD
+ZdfQ==
 -->
