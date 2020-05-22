@@ -9,6 +9,7 @@
 * https://www.pixar.com/
 * [Pentagram — The world's largest independent design consultancy](https://www.pentagram.com/)
 * [https://sagmeisterwalsh.com/](https://sagmeisterwalsh.com/)
+* [https://www.cghnyc.com/](https://www.cghnyc.com/) - Chermayeff & Geismar & Haviv
 
 ### 3D & Animation
 
@@ -70,9 +71,9 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NzE3NDUyNywtNTAwNzQ5NDQyLC0xOD
-c5Nzc3MDI3LC03Mjc2NTgxMDEsMTI5NjkwMDE1MCwtNzI2MTAz
-NTE5LC0xOTk4NjY2MjE4LC0zNTA0OTMxMjAsMTc5NTMzNjkyMS
-wyMTIzMjU1NTE4LDU4ODk4NjU5Myw4NzI3MjEzMzMsLTEzMjgx
-NzQ0MzMsLTQ1MTc0MDM4Nl19
+eyJoaXN0b3J5IjpbMTk2NTg2ODUwNywxNTU3MTc0NTI3LC01MD
+A3NDk0NDIsLTE4Nzk3NzcwMjcsLTcyNzY1ODEwMSwxMjk2OTAw
+MTUwLC03MjYxMDM1MTksLTE5OTg2NjYyMTgsLTM1MDQ5MzEyMC
+wxNzk1MzM2OTIxLDIxMjMyNTU1MTgsNTg4OTg2NTkzLDg3Mjcy
+MTMzMywtMTMyODE3NDQzMywtNDUxNzQwMzg2XX0=
 -->
