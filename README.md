@@ -48,6 +48,7 @@
 * https://www.united.com/en/us/ - solid logo
 * [https://www.hrw.org/](https://www.hrw.org/) - lovely textual layout and logo
 * [https://maverick.com/](https://maverick.com/) - created by Madonna
+* [http://www.chengyinliu.com/](http://www.chengyinliu.com/) - simple CV site - creator of WhatFont
 
 ### Case studies
 
@@ -72,10 +73,10 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MzI2NzA3NiwxOTY1ODY4NTA3LDE1NT
-cxNzQ1MjcsLTUwMDc0OTQ0MiwtMTg3OTc3NzAyNywtNzI3NjU4
-MTAxLDEyOTY5MDAxNTAsLTcyNjEwMzUxOSwtMTk5ODY2NjIxOC
-wtMzUwNDkzMTIwLDE3OTUzMzY5MjEsMjEyMzI1NTUxOCw1ODg5
-ODY1OTMsODcyNzIxMzMzLC0xMzI4MTc0NDMzLC00NTE3NDAzOD
-ZdfQ==
+eyJoaXN0b3J5IjpbLTQ1Mzc1OTcxMywtMjkzMjY3MDc2LDE5Nj
+U4Njg1MDcsMTU1NzE3NDUyNywtNTAwNzQ5NDQyLC0xODc5Nzc3
+MDI3LC03Mjc2NTgxMDEsMTI5NjkwMDE1MCwtNzI2MTAzNTE5LC
+0xOTk4NjY2MjE4LC0zNTA0OTMxMjAsMTc5NTMzNjkyMSwyMTIz
+MjU1NTE4LDU4ODk4NjU5Myw4NzI3MjEzMzMsLTEzMjgxNzQ0Mz
+MsLTQ1MTc0MDM4Nl19
 -->
