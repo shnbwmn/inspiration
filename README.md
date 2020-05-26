@@ -38,6 +38,10 @@
 * [https://courtny.co/](https://courtny.co/)
 * [http://www.aaronlawrencedesign.com/aaron-lawrence-ux-and-ui-designer-in-sf.html](http://www.aaronlawrencedesign.com/aaron-lawrence-ux-and-ui-designer-in-sf.html)
 
+### Illustrators
+
+* [https://burnttoastcreative.com/](https://burnttoastcreative.com/)
+
 ### Photographers
 
 * [http://www.robertcorneliusphotography.com/](http://www.robertcorneliusphotography.com/)
@@ -73,10 +77,10 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1Mzc1OTcxMywtMjkzMjY3MDc2LDE5Nj
-U4Njg1MDcsMTU1NzE3NDUyNywtNTAwNzQ5NDQyLC0xODc5Nzc3
-MDI3LC03Mjc2NTgxMDEsMTI5NjkwMDE1MCwtNzI2MTAzNTE5LC
-0xOTk4NjY2MjE4LC0zNTA0OTMxMjAsMTc5NTMzNjkyMSwyMTIz
-MjU1NTE4LDU4ODk4NjU5Myw4NzI3MjEzMzMsLTEzMjgxNzQ0Mz
-MsLTQ1MTc0MDM4Nl19
+eyJoaXN0b3J5IjpbMTgxMDIxODE4NywtNDUzNzU5NzEzLC0yOT
+MyNjcwNzYsMTk2NTg2ODUwNywxNTU3MTc0NTI3LC01MDA3NDk0
+NDIsLTE4Nzk3NzcwMjcsLTcyNzY1ODEwMSwxMjk2OTAwMTUwLC
+03MjYxMDM1MTksLTE5OTg2NjYyMTgsLTM1MDQ5MzEyMCwxNzk1
+MzM2OTIxLDIxMjMyNTU1MTgsNTg4OTg2NTkzLDg3MjcyMTMzMy
+wtMTMyODE3NDQzMywtNDUxNzQwMzg2XX0=
 -->
