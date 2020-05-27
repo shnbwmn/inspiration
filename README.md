@@ -44,6 +44,10 @@
 * [https://dribbble.com/miaditmanson/shots](https://dribbble.com/miaditmanson/shots)
 * [https://dribbble.com/Olgasemklo/shots](https://dribbble.com/Olgasemklo/shots) - painter too
 * [https://dribbble.com/matheuscosta](https://dribbble.com/matheuscosta) - brazilian
+* [https://dribbble.com/DominikKorolczuk](https://dribbble.com/DominikKorolczuk)
+* [https://dribbble.com/road_runner_27](https://dribbble.com/road_runner_27)
+* [https://dribbble.com/mooandidesign](https://dribbble.com/mooandidesign)
+* [https://dribbble.com/MoniqueAimee](https://dribbble.com/MoniqueAimee)
 
 ### Photographers
 
@@ -84,11 +88,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNDcxNzI5MCwxNjExMzMyNTQwLDE4MT
-AyMTgxODcsLTQ1Mzc1OTcxMywtMjkzMjY3MDc2LDE5NjU4Njg1
-MDcsMTU1NzE3NDUyNywtNTAwNzQ5NDQyLC0xODc5Nzc3MDI3LC
-03Mjc2NTgxMDEsMTI5NjkwMDE1MCwtNzI2MTAzNTE5LC0xOTk4
-NjY2MjE4LC0zNTA0OTMxMjAsMTc5NTMzNjkyMSwyMTIzMjU1NT
-E4LDU4ODk4NjU5Myw4NzI3MjEzMzMsLTEzMjgxNzQ0MzMsLTQ1
-MTc0MDM4Nl19
+eyJoaXN0b3J5IjpbLTQyMzcxOTAwMCwtODM0NzE3MjkwLDE2MT
+EzMzI1NDAsMTgxMDIxODE4NywtNDUzNzU5NzEzLC0yOTMyNjcw
+NzYsMTk2NTg2ODUwNywxNTU3MTc0NTI3LC01MDA3NDk0NDIsLT
+E4Nzk3NzcwMjcsLTcyNzY1ODEwMSwxMjk2OTAwMTUwLC03MjYx
+MDM1MTksLTE5OTg2NjYyMTgsLTM1MDQ5MzEyMCwxNzk1MzM2OT
+IxLDIxMjMyNTU1MTgsNTg4OTg2NTkzLDg3MjcyMTMzMywtMTMy
+ODE3NDQzM119
 -->
