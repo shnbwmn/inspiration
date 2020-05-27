@@ -41,6 +41,9 @@
 ### Illustrators
 
 * [https://burnttoastcreative.com/](https://burnttoastcreative.com/)
+* [https://dribbble.com/miaditmanson/shots](https://dribbble.com/miaditmanson/shots)
+* [https://dribbble.com/Olgasemklo/shots](https://dribbble.com/Olgasemklo/shots) - painter too
+* [https://dribbble.com/matheuscosta](https://dribbble.com/matheuscosta) - brazilian
 
 ### Photographers
 
@@ -81,11 +84,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMTMzMjU0MCwxODEwMjE4MTg3LC00NT
-M3NTk3MTMsLTI5MzI2NzA3NiwxOTY1ODY4NTA3LDE1NTcxNzQ1
-MjcsLTUwMDc0OTQ0MiwtMTg3OTc3NzAyNywtNzI3NjU4MTAxLD
-EyOTY5MDAxNTAsLTcyNjEwMzUxOSwtMTk5ODY2NjIxOCwtMzUw
-NDkzMTIwLDE3OTUzMzY5MjEsMjEyMzI1NTUxOCw1ODg5ODY1OT
-MsODcyNzIxMzMzLC0xMzI4MTc0NDMzLC00NTE3NDAzODZdfQ==
-
+eyJoaXN0b3J5IjpbLTgzNDcxNzI5MCwxNjExMzMyNTQwLDE4MT
+AyMTgxODcsLTQ1Mzc1OTcxMywtMjkzMjY3MDc2LDE5NjU4Njg1
+MDcsMTU1NzE3NDUyNywtNTAwNzQ5NDQyLC0xODc5Nzc3MDI3LC
+03Mjc2NTgxMDEsMTI5NjkwMDE1MCwtNzI2MTAzNTE5LC0xOTk4
+NjY2MjE4LC0zNTA0OTMxMjAsMTc5NTMzNjkyMSwyMTIzMjU1NT
+E4LDU4ODk4NjU5Myw4NzI3MjEzMzMsLTEzMjgxNzQ0MzMsLTQ1
+MTc0MDM4Nl19
 -->
