@@ -37,7 +37,7 @@
 * [https://hicksdesign.co.uk/](https://hicksdesign.co.uk/)
 * [https://courtny.co/](https://courtny.co/)
 * [http://www.aaronlawrencedesign.com/aaron-lawrence-ux-and-ui-designer-in-sf.html](http://www.aaronlawrencedesign.com/aaron-lawrence-ux-and-ui-designer-in-sf.html)
-* [https://stuctaylor.com/](https://stuctaylor.com/) - works at Pentagram ()
+* [https://stuctaylor.com/](https://stuctaylor.com/) - works at Pentagram (Austin)
 
 ### Illustrators
 
@@ -90,7 +90,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NTMzNDMxMCwtNDIzNzE5MDAwLC04Mz
+eyJoaXN0b3J5IjpbLTU1MTE1NTc3NiwtNDIzNzE5MDAwLC04Mz
 Q3MTcyOTAsMTYxMTMzMjU0MCwxODEwMjE4MTg3LC00NTM3NTk3
 MTMsLTI5MzI2NzA3NiwxOTY1ODY4NTA3LDE1NTcxNzQ1MjcsLT
 UwMDc0OTQ0MiwtMTg3OTc3NzAyNywtNzI3NjU4MTAxLDEyOTY5
