@@ -37,10 +37,12 @@
 * [https://hicksdesign.co.uk/](https://hicksdesign.co.uk/)
 * [https://courtny.co/](https://courtny.co/)
 * [http://www.aaronlawrencedesign.com/aaron-lawrence-ux-and-ui-designer-in-sf.html](http://www.aaronlawrencedesign.com/aaron-lawrence-ux-and-ui-designer-in-sf.html)
+* [https://stuctaylor.com/](https://stuctaylor.com/) - works at Pentagram ()
 
 ### Illustrators
 
 * [https://burnttoastcreative.com/](https://burnttoastcreative.com/)
+* [https://kattyhuertas.com/](https://kattyhuertas.com/)
 * [https://dribbble.com/miaditmanson/shots](https://dribbble.com/miaditmanson/shots)
 * [https://dribbble.com/Olgasemklo/shots](https://dribbble.com/Olgasemklo/shots) - painter too
 * [https://dribbble.com/matheuscosta](https://dribbble.com/matheuscosta) - brazilian
@@ -88,11 +90,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMzcxOTAwMCwtODM0NzE3MjkwLDE2MT
-EzMzI1NDAsMTgxMDIxODE4NywtNDUzNzU5NzEzLC0yOTMyNjcw
-NzYsMTk2NTg2ODUwNywxNTU3MTc0NTI3LC01MDA3NDk0NDIsLT
-E4Nzk3NzcwMjcsLTcyNzY1ODEwMSwxMjk2OTAwMTUwLC03MjYx
-MDM1MTksLTE5OTg2NjYyMTgsLTM1MDQ5MzEyMCwxNzk1MzM2OT
-IxLDIxMjMyNTU1MTgsNTg4OTg2NTkzLDg3MjcyMTMzMywtMTMy
-ODE3NDQzM119
+eyJoaXN0b3J5IjpbMTg0NTMzNDMxMCwtNDIzNzE5MDAwLC04Mz
+Q3MTcyOTAsMTYxMTMzMjU0MCwxODEwMjE4MTg3LC00NTM3NTk3
+MTMsLTI5MzI2NzA3NiwxOTY1ODY4NTA3LDE1NTcxNzQ1MjcsLT
+UwMDc0OTQ0MiwtMTg3OTc3NzAyNywtNzI3NjU4MTAxLDEyOTY5
+MDAxNTAsLTcyNjEwMzUxOSwtMTk5ODY2NjIxOCwtMzUwNDkzMT
+IwLDE3OTUzMzY5MjEsMjEyMzI1NTUxOCw1ODg5ODY1OTMsODcy
+NzIxMzMzXX0=
 -->
