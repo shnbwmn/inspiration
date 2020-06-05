@@ -10,6 +10,7 @@
 * [Pentagram — The world's largest independent design consultancy](https://www.pentagram.com/)
 * [https://sagmeisterwalsh.com/](https://sagmeisterwalsh.com/)
 * [https://www.cghnyc.com/](https://www.cghnyc.com/) - Chermayeff & Geismar & Haviv
+* [https://www.wolffolins.com/](https://www.wolffolins.com/)
 
 ### 3D & Animation
 
@@ -90,11 +91,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MTE1NTc3NiwtNDIzNzE5MDAwLC04Mz
-Q3MTcyOTAsMTYxMTMzMjU0MCwxODEwMjE4MTg3LC00NTM3NTk3
-MTMsLTI5MzI2NzA3NiwxOTY1ODY4NTA3LDE1NTcxNzQ1MjcsLT
-UwMDc0OTQ0MiwtMTg3OTc3NzAyNywtNzI3NjU4MTAxLDEyOTY5
-MDAxNTAsLTcyNjEwMzUxOSwtMTk5ODY2NjIxOCwtMzUwNDkzMT
-IwLDE3OTUzMzY5MjEsMjEyMzI1NTUxOCw1ODg5ODY1OTMsODcy
-NzIxMzMzXX0=
+eyJoaXN0b3J5IjpbLTIwNjc5MTI5OTMsLTQyMzcxOTAwMCwtOD
+M0NzE3MjkwLDE2MTEzMzI1NDAsMTgxMDIxODE4NywtNDUzNzU5
+NzEzLC0yOTMyNjcwNzYsMTk2NTg2ODUwNywxNTU3MTc0NTI3LC
+01MDA3NDk0NDIsLTE4Nzk3NzcwMjcsLTcyNzY1ODEwMSwxMjk2
+OTAwMTUwLC03MjYxMDM1MTksLTE5OTg2NjYyMTgsLTM1MDQ5Mz
+EyMCwxNzk1MzM2OTIxLDIxMjMyNTU1MTgsNTg4OTg2NTkzLDg3
+MjcyMTMzM119
 -->
