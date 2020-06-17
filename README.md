@@ -63,7 +63,7 @@
 
 ### Consultancies
 
-* [https://www.sylvainlabs.com/](https://www.sylvainlabs.com/)
+* [https://www.sylvainlabs.com/](https://www.sylvainlabs.com/) - works with the big boys like Facebook and Google
 
 ### Cool brands / sites
 
@@ -95,11 +95,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MjAwNzA3MiwtMjA2NzkxMjk5MywtND
-IzNzE5MDAwLC04MzQ3MTcyOTAsMTYxMTMzMjU0MCwxODEwMjE4
-MTg3LC00NTM3NTk3MTMsLTI5MzI2NzA3NiwxOTY1ODY4NTA3LD
-E1NTcxNzQ1MjcsLTUwMDc0OTQ0MiwtMTg3OTc3NzAyNywtNzI3
-NjU4MTAxLDEyOTY5MDAxNTAsLTcyNjEwMzUxOSwtMTk5ODY2Nj
-IxOCwtMzUwNDkzMTIwLDE3OTUzMzY5MjEsMjEyMzI1NTUxOCw1
-ODg5ODY1OTNdfQ==
+eyJoaXN0b3J5IjpbMzg0OTc0ODg4LC0yMDY3OTEyOTkzLC00Mj
+M3MTkwMDAsLTgzNDcxNzI5MCwxNjExMzMyNTQwLDE4MTAyMTgx
+ODcsLTQ1Mzc1OTcxMywtMjkzMjY3MDc2LDE5NjU4Njg1MDcsMT
+U1NzE3NDUyNywtNTAwNzQ5NDQyLC0xODc5Nzc3MDI3LC03Mjc2
+NTgxMDEsMTI5NjkwMDE1MCwtNzI2MTAzNTE5LC0xOTk4NjY2Mj
+E4LC0zNTA0OTMxMjAsMTc5NTMzNjkyMSwyMTIzMjU1NTE4LDU4
+ODk4NjU5M119
 -->
