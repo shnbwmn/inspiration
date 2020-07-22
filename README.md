@@ -72,6 +72,7 @@
 * [https://www.hrw.org/](https://www.hrw.org/) - lovely textual layout and logo
 * [https://maverick.com/](https://maverick.com/) - created by Madonna
 * [http://www.chengyinliu.com/](http://www.chengyinliu.com/) - simple CV site - creator of WhatFont
+* [https://www.sygnia.co.za/](https://www.sygnia.co.za/)
 
 ### Case studies
 
@@ -96,11 +97,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjI2NjM1OTMsMzg0OTc0ODg4LC0yMD
-Y3OTEyOTkzLC00MjM3MTkwMDAsLTgzNDcxNzI5MCwxNjExMzMy
-NTQwLDE4MTAyMTgxODcsLTQ1Mzc1OTcxMywtMjkzMjY3MDc2LD
-E5NjU4Njg1MDcsMTU1NzE3NDUyNywtNTAwNzQ5NDQyLC0xODc5
-Nzc3MDI3LC03Mjc2NTgxMDEsMTI5NjkwMDE1MCwtNzI2MTAzNT
-E5LC0xOTk4NjY2MjE4LC0zNTA0OTMxMjAsMTc5NTMzNjkyMSwy
-MTIzMjU1NTE4XX0=
+eyJoaXN0b3J5IjpbLTYyOTUwNTY3NCwtMTAyMjY2MzU5MywzOD
+Q5NzQ4ODgsLTIwNjc5MTI5OTMsLTQyMzcxOTAwMCwtODM0NzE3
+MjkwLDE2MTEzMzI1NDAsMTgxMDIxODE4NywtNDUzNzU5NzEzLC
+0yOTMyNjcwNzYsMTk2NTg2ODUwNywxNTU3MTc0NTI3LC01MDA3
+NDk0NDIsLTE4Nzk3NzcwMjcsLTcyNzY1ODEwMSwxMjk2OTAwMT
+UwLC03MjYxMDM1MTksLTE5OTg2NjYyMTgsLTM1MDQ5MzEyMCwx
+Nzk1MzM2OTIxXX0=
 -->
