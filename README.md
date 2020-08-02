@@ -29,6 +29,7 @@
 * [https://tegra.co/](https://tegra.co/)
 * [https://bibliothequedesign.com/](https://bibliothequedesign.com/)
 * [http://www.sunshinegun.co.za/](http://www.sunshinegun.co.za/) - South African
+* [https://ibay.co.za/](https://ibay.co.za/) - Cape Town
 
 ### Designers
 
@@ -97,11 +98,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyOTUwNTY3NCwtMTAyMjY2MzU5MywzOD
-Q5NzQ4ODgsLTIwNjc5MTI5OTMsLTQyMzcxOTAwMCwtODM0NzE3
-MjkwLDE2MTEzMzI1NDAsMTgxMDIxODE4NywtNDUzNzU5NzEzLC
-0yOTMyNjcwNzYsMTk2NTg2ODUwNywxNTU3MTc0NTI3LC01MDA3
-NDk0NDIsLTE4Nzk3NzcwMjcsLTcyNzY1ODEwMSwxMjk2OTAwMT
-UwLC03MjYxMDM1MTksLTE5OTg2NjYyMTgsLTM1MDQ5MzEyMCwx
-Nzk1MzM2OTIxXX0=
+eyJoaXN0b3J5IjpbNjk5ODI5NzYzLC02Mjk1MDU2NzQsLTEwMj
+I2NjM1OTMsMzg0OTc0ODg4LC0yMDY3OTEyOTkzLC00MjM3MTkw
+MDAsLTgzNDcxNzI5MCwxNjExMzMyNTQwLDE4MTAyMTgxODcsLT
+Q1Mzc1OTcxMywtMjkzMjY3MDc2LDE5NjU4Njg1MDcsMTU1NzE3
+NDUyNywtNTAwNzQ5NDQyLC0xODc5Nzc3MDI3LC03Mjc2NTgxMD
+EsMTI5NjkwMDE1MCwtNzI2MTAzNTE5LC0xOTk4NjY2MjE4LC0z
+NTA0OTMxMjBdfQ==
 -->
