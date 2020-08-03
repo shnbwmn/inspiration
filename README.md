@@ -74,6 +74,10 @@
 * [https://maverick.com/](https://maverick.com/) - created by Madonna
 * [http://www.chengyinliu.com/](http://www.chengyinliu.com/) - simple CV site - creator of WhatFont
 * [https://www.sygnia.co.za/](https://www.sygnia.co.za/)
+* [https://www.tesla.com/](https://www.tesla.com/)
+* [https://www.bloomberg.com/](https://www.bloomberg.com/)
+* [https://www.wsj.com/](https://www.wsj.com/)
+* [https://www.economist.com/](https://www.economist.com/)
 
 ### Case studies
 
@@ -98,11 +102,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk5ODI5NzYzLC02Mjk1MDU2NzQsLTEwMj
-I2NjM1OTMsMzg0OTc0ODg4LC0yMDY3OTEyOTkzLC00MjM3MTkw
-MDAsLTgzNDcxNzI5MCwxNjExMzMyNTQwLDE4MTAyMTgxODcsLT
-Q1Mzc1OTcxMywtMjkzMjY3MDc2LDE5NjU4Njg1MDcsMTU1NzE3
-NDUyNywtNTAwNzQ5NDQyLC0xODc5Nzc3MDI3LC03Mjc2NTgxMD
-EsMTI5NjkwMDE1MCwtNzI2MTAzNTE5LC0xOTk4NjY2MjE4LC0z
-NTA0OTMxMjBdfQ==
+eyJoaXN0b3J5IjpbMjEzMzk5NDc2MSw2OTk4Mjk3NjMsLTYyOT
+UwNTY3NCwtMTAyMjY2MzU5MywzODQ5NzQ4ODgsLTIwNjc5MTI5
+OTMsLTQyMzcxOTAwMCwtODM0NzE3MjkwLDE2MTEzMzI1NDAsMT
+gxMDIxODE4NywtNDUzNzU5NzEzLC0yOTMyNjcwNzYsMTk2NTg2
+ODUwNywxNTU3MTc0NTI3LC01MDA3NDk0NDIsLTE4Nzk3NzcwMj
+csLTcyNzY1ODEwMSwxMjk2OTAwMTUwLC03MjYxMDM1MTksLTE5
+OTg2NjYyMThdfQ==
 -->
