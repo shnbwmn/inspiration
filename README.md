@@ -79,6 +79,7 @@
 * [https://www.wsj.com/](https://www.wsj.com/)
 * [https://www.economist.com/](https://www.economist.com/)
 * [https://vidico.com/](https://vidico.com/)
+* [https://www.jopwell.com/](https://www.jopwell.com/)
 
 ### Case studies
 
@@ -103,11 +104,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MzY0OTY4LDIxMzM5OTQ3NjEsNjk5OD
-I5NzYzLC02Mjk1MDU2NzQsLTEwMjI2NjM1OTMsMzg0OTc0ODg4
-LC0yMDY3OTEyOTkzLC00MjM3MTkwMDAsLTgzNDcxNzI5MCwxNj
-ExMzMyNTQwLDE4MTAyMTgxODcsLTQ1Mzc1OTcxMywtMjkzMjY3
-MDc2LDE5NjU4Njg1MDcsMTU1NzE3NDUyNywtNTAwNzQ5NDQyLC
-0xODc5Nzc3MDI3LC03Mjc2NTgxMDEsMTI5NjkwMDE1MCwtNzI2
-MTAzNTE5XX0=
+eyJoaXN0b3J5IjpbMTI2OTAyNTQ1NSwxODgzNjQ5NjgsMjEzMz
+k5NDc2MSw2OTk4Mjk3NjMsLTYyOTUwNTY3NCwtMTAyMjY2MzU5
+MywzODQ5NzQ4ODgsLTIwNjc5MTI5OTMsLTQyMzcxOTAwMCwtOD
+M0NzE3MjkwLDE2MTEzMzI1NDAsMTgxMDIxODE4NywtNDUzNzU5
+NzEzLC0yOTMyNjcwNzYsMTk2NTg2ODUwNywxNTU3MTc0NTI3LC
+01MDA3NDk0NDIsLTE4Nzk3NzcwMjcsLTcyNzY1ODEwMSwxMjk2
+OTAwMTUwXX0=
 -->
