@@ -30,6 +30,7 @@
 * [https://bibliothequedesign.com/](https://bibliothequedesign.com/)
 * [http://www.sunshinegun.co.za/](http://www.sunshinegun.co.za/) - South African
 * [https://ibay.co.za/](https://ibay.co.za/) - Cape Town
+* [https://infestation.co.za/](https://infestation.co.za/) - Cape Town
 
 ### Designers
 
@@ -80,6 +81,7 @@
 * [https://www.economist.com/](https://www.economist.com/)
 * [https://vidico.com/](https://vidico.com/)
 * [https://www.jopwell.com/](https://www.jopwell.com/)
+* [https://www.art.com/](https://www.art.com/)
 
 ### Case studies
 
@@ -104,11 +106,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2OTAyNTQ1NSwxODgzNjQ5NjgsMjEzMz
-k5NDc2MSw2OTk4Mjk3NjMsLTYyOTUwNTY3NCwtMTAyMjY2MzU5
-MywzODQ5NzQ4ODgsLTIwNjc5MTI5OTMsLTQyMzcxOTAwMCwtOD
-M0NzE3MjkwLDE2MTEzMzI1NDAsMTgxMDIxODE4NywtNDUzNzU5
-NzEzLC0yOTMyNjcwNzYsMTk2NTg2ODUwNywxNTU3MTc0NTI3LC
-01MDA3NDk0NDIsLTE4Nzk3NzcwMjcsLTcyNzY1ODEwMSwxMjk2
-OTAwMTUwXX0=
+eyJoaXN0b3J5IjpbLTM0NzA4NDY1MywxMjY5MDI1NDU1LDE4OD
+M2NDk2OCwyMTMzOTk0NzYxLDY5OTgyOTc2MywtNjI5NTA1Njc0
+LC0xMDIyNjYzNTkzLDM4NDk3NDg4OCwtMjA2NzkxMjk5MywtND
+IzNzE5MDAwLC04MzQ3MTcyOTAsMTYxMTMzMjU0MCwxODEwMjE4
+MTg3LC00NTM3NTk3MTMsLTI5MzI2NzA3NiwxOTY1ODY4NTA3LD
+E1NTcxNzQ1MjcsLTUwMDc0OTQ0MiwtMTg3OTc3NzAyNywtNzI3
+NjU4MTAxXX0=
 -->
