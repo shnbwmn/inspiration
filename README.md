@@ -85,6 +85,7 @@
 * https://www.upl-ltd.com/#
 * https://adcash.com/
 * https://www.similarweb.com/
+* https://www.vox.co.za/
 
 ### Case studies
 
@@ -109,7 +110,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MDA2MzI1OCwxNzkxNDg1NDY5LDEyMD
+eyJoaXN0b3J5IjpbMTk2NTQxMjMyMywxNzkxNDg1NDY5LDEyMD
 M4OTAyMDQsLTM0NzA4NDY1MywxMjY5MDI1NDU1LDE4ODM2NDk2
 OCwyMTMzOTk0NzYxLDY5OTgyOTc2MywtNjI5NTA1Njc0LC0xMD
 IyNjYzNTkzLDM4NDk3NDg4OCwtMjA2NzkxMjk5MywtNDIzNzE5
