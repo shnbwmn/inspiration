@@ -87,6 +87,8 @@
 * https://www.similarweb.com/
 * https://www.vox.co.za/
 * https://ifttt.com/
+* https://www.richfield.ac.za/
+* https://www.cameraland.co.za/
 
 ### Case studies
 
@@ -111,11 +113,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUyMTAyOTUxLDE3OTE0ODU0NjksMTIwMz
-g5MDIwNCwtMzQ3MDg0NjUzLDEyNjkwMjU0NTUsMTg4MzY0OTY4
-LDIxMzM5OTQ3NjEsNjk5ODI5NzYzLC02Mjk1MDU2NzQsLTEwMj
-I2NjM1OTMsMzg0OTc0ODg4LC0yMDY3OTEyOTkzLC00MjM3MTkw
-MDAsLTgzNDcxNzI5MCwxNjExMzMyNTQwLDE4MTAyMTgxODcsLT
-Q1Mzc1OTcxMywtMjkzMjY3MDc2LDE5NjU4Njg1MDcsMTU1NzE3
-NDUyN119
+eyJoaXN0b3J5IjpbLTEyOTUxMDY0MjcsNjUyMTAyOTUxLDE3OT
+E0ODU0NjksMTIwMzg5MDIwNCwtMzQ3MDg0NjUzLDEyNjkwMjU0
+NTUsMTg4MzY0OTY4LDIxMzM5OTQ3NjEsNjk5ODI5NzYzLC02Mj
+k1MDU2NzQsLTEwMjI2NjM1OTMsMzg0OTc0ODg4LC0yMDY3OTEy
+OTkzLC00MjM3MTkwMDAsLTgzNDcxNzI5MCwxNjExMzMyNTQwLD
+E4MTAyMTgxODcsLTQ1Mzc1OTcxMywtMjkzMjY3MDc2LDE5NjU4
+Njg1MDddfQ==
 -->
