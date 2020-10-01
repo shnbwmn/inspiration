@@ -96,6 +96,7 @@
 * https://redclayyoga.org/
 * https://shop.lululemon.com/
 * https://www.kelpak.com/home.html
+* https://www.intechopen.com/
 
 ### Case studies
 
@@ -120,7 +121,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNDM2OTc1NSwtMTAzMTQzNzIzMywtOD
+eyJoaXN0b3J5IjpbMTU3MDQzMzEyNCwtMTAzMTQzNzIzMywtOD
 YxNDk5NTE0LC0xMjk1MTA2NDI3LDY1MjEwMjk1MSwxNzkxNDg1
 NDY5LDEyMDM4OTAyMDQsLTM0NzA4NDY1MywxMjY5MDI1NDU1LD
 E4ODM2NDk2OCwyMTMzOTk0NzYxLDY5OTgyOTc2MywtNjI5NTA1
