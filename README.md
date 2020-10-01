@@ -92,7 +92,9 @@
 * http://www.fao.org/home/en/
 * https://www.volpes.co.za/
 * https://www.shield.com/
-* 
+* https://www.chelsealovesyoga.com/
+* https://redclayyoga.org/
+* https://shop.lululemon.com/
 
 ### Case studies
 
@@ -117,11 +119,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMzI3NTYzNywtODYxNDk5NTE0LC0xMj
-k1MTA2NDI3LDY1MjEwMjk1MSwxNzkxNDg1NDY5LDEyMDM4OTAy
-MDQsLTM0NzA4NDY1MywxMjY5MDI1NDU1LDE4ODM2NDk2OCwyMT
-MzOTk0NzYxLDY5OTgyOTc2MywtNjI5NTA1Njc0LC0xMDIyNjYz
-NTkzLDM4NDk3NDg4OCwtMjA2NzkxMjk5MywtNDIzNzE5MDAwLC
-04MzQ3MTcyOTAsMTYxMTMzMjU0MCwxODEwMjE4MTg3LC00NTM3
-NTk3MTNdfQ==
+eyJoaXN0b3J5IjpbLTEwMzE0MzcyMzMsLTg2MTQ5OTUxNCwtMT
+I5NTEwNjQyNyw2NTIxMDI5NTEsMTc5MTQ4NTQ2OSwxMjAzODkw
+MjA0LC0zNDcwODQ2NTMsMTI2OTAyNTQ1NSwxODgzNjQ5NjgsMj
+EzMzk5NDc2MSw2OTk4Mjk3NjMsLTYyOTUwNTY3NCwtMTAyMjY2
+MzU5MywzODQ5NzQ4ODgsLTIwNjc5MTI5OTMsLTQyMzcxOTAwMC
+wtODM0NzE3MjkwLDE2MTEzMzI1NDAsMTgxMDIxODE4NywtNDUz
+NzU5NzEzXX0=
 -->
