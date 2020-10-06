@@ -102,7 +102,6 @@
 * https://www.rogerwilco.co.za/
 * https://theagency.co.za/
 * http://bsky.co.za/
-* https://www.similarweb.com/
 
 ### Case studies
 
@@ -127,7 +126,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDc4OTM0MzUsMTA1NzE4MDA3MywxNT
+eyJoaXN0b3J5IjpbLTE5NTE5MDcxNzAsMTA1NzE4MDA3MywxNT
 cwNDMzMTI0LC0xMDMxNDM3MjMzLC04NjE0OTk1MTQsLTEyOTUx
 MDY0MjcsNjUyMTAyOTUxLDE3OTE0ODU0NjksMTIwMzg5MDIwNC
 wtMzQ3MDg0NjUzLDEyNjkwMjU0NTUsMTg4MzY0OTY4LDIxMzM5
