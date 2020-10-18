@@ -55,7 +55,7 @@
 * [https://dribbble.com/mooandidesign](https://dribbble.com/mooandidesign)
 * [https://dribbble.com/MoniqueAimee](https://dribbble.com/MoniqueAimee)
 * https://www.moebius.fr/index.html
-* 
+* https://www.noosfere.org/mezieres/
 
 ### Photographers
 
@@ -129,11 +129,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMTIyOTI4MSwtMTkwNDc5NjY5OSwtMT
-k1MTkwNzE3MCwxMDU3MTgwMDczLDE1NzA0MzMxMjQsLTEwMzE0
-MzcyMzMsLTg2MTQ5OTUxNCwtMTI5NTEwNjQyNyw2NTIxMDI5NT
-EsMTc5MTQ4NTQ2OSwxMjAzODkwMjA0LC0zNDcwODQ2NTMsMTI2
-OTAyNTQ1NSwxODgzNjQ5NjgsMjEzMzk5NDc2MSw2OTk4Mjk3Nj
-MsLTYyOTUwNTY3NCwtMTAyMjY2MzU5MywzODQ5NzQ4ODgsLTIw
-Njc5MTI5OTNdfQ==
+eyJoaXN0b3J5IjpbLTY0NTk0NTI5OCwtOTIxMjI5MjgxLC0xOT
+A0Nzk2Njk5LC0xOTUxOTA3MTcwLDEwNTcxODAwNzMsMTU3MDQz
+MzEyNCwtMTAzMTQzNzIzMywtODYxNDk5NTE0LC0xMjk1MTA2ND
+I3LDY1MjEwMjk1MSwxNzkxNDg1NDY5LDEyMDM4OTAyMDQsLTM0
+NzA4NDY1MywxMjY5MDI1NDU1LDE4ODM2NDk2OCwyMTMzOTk0Nz
+YxLDY5OTgyOTc2MywtNjI5NTA1Njc0LC0xMDIyNjYzNTkzLDM4
+NDk3NDg4OF19
 -->
