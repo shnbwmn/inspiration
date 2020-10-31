@@ -56,6 +56,7 @@
 * [https://dribbble.com/MoniqueAimee](https://dribbble.com/MoniqueAimee)
 * https://www.moebius.fr/index.html
 * https://www.noosfere.org/mezieres/
+* Arthur Rackham
 
 ### Photographers
 
@@ -107,6 +108,11 @@
 * https://corp.shiseido.com/en/
 * https://articulate.com/360/storyline
 * https://www.travelclick.com/
+* https://www.upwork.com/
+* https://www.toptal.com/
+* https://za.godaddy.com/
+* https://www.fiverr.com/
+* https://gallica.bnf.fr/accueil/en/content/accueil-en?mode=desktop
 
 ### Case studies
 
@@ -115,6 +121,7 @@
 ### Museums
 
 * https://www.mfa.org/
+* https://gallica.bnf.fr/accueil/en/content/accueil-en?mode=desktop
 
 ### Artists
 
@@ -131,11 +138,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjEwNTI2ODYsLTE1MTM3Njc3OTQsLT
-Y0NTk0NTI5OCwtOTIxMjI5MjgxLC0xOTA0Nzk2Njk5LC0xOTUx
-OTA3MTcwLDEwNTcxODAwNzMsMTU3MDQzMzEyNCwtMTAzMTQzNz
-IzMywtODYxNDk5NTE0LC0xMjk1MTA2NDI3LDY1MjEwMjk1MSwx
-NzkxNDg1NDY5LDEyMDM4OTAyMDQsLTM0NzA4NDY1MywxMjY5MD
-I1NDU1LDE4ODM2NDk2OCwyMTMzOTk0NzYxLDY5OTgyOTc2Mywt
-NjI5NTA1Njc0XX0=
+eyJoaXN0b3J5IjpbLTUwOTAwMDU0MSwtMTAyMTA1MjY4NiwtMT
+UxMzc2Nzc5NCwtNjQ1OTQ1Mjk4LC05MjEyMjkyODEsLTE5MDQ3
+OTY2OTksLTE5NTE5MDcxNzAsMTA1NzE4MDA3MywxNTcwNDMzMT
+I0LC0xMDMxNDM3MjMzLC04NjE0OTk1MTQsLTEyOTUxMDY0Mjcs
+NjUyMTAyOTUxLDE3OTE0ODU0NjksMTIwMzg5MDIwNCwtMzQ3MD
+g0NjUzLDEyNjkwMjU0NTUsMTg4MzY0OTY4LDIxMzM5OTQ3NjEs
+Njk5ODI5NzYzXX0=
 -->
