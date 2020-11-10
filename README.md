@@ -113,6 +113,8 @@
 * https://za.godaddy.com/
 * https://www.fiverr.com/
 * https://gallica.bnf.fr/accueil/en/content/accueil-en?mode=desktop
+* https://www.duracell.co.za/
+* https://www.gandi.net/en
 
 ### Case studies
 
@@ -138,11 +140,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwOTAwMDU0MSwtMTAyMTA1MjY4NiwtMT
-UxMzc2Nzc5NCwtNjQ1OTQ1Mjk4LC05MjEyMjkyODEsLTE5MDQ3
-OTY2OTksLTE5NTE5MDcxNzAsMTA1NzE4MDA3MywxNTcwNDMzMT
-I0LC0xMDMxNDM3MjMzLC04NjE0OTk1MTQsLTEyOTUxMDY0Mjcs
-NjUyMTAyOTUxLDE3OTE0ODU0NjksMTIwMzg5MDIwNCwtMzQ3MD
-g0NjUzLDEyNjkwMjU0NTUsMTg4MzY0OTY4LDIxMzM5OTQ3NjEs
-Njk5ODI5NzYzXX0=
+eyJoaXN0b3J5IjpbLTEzMjY4NTA3NTksLTUwOTAwMDU0MSwtMT
+AyMTA1MjY4NiwtMTUxMzc2Nzc5NCwtNjQ1OTQ1Mjk4LC05MjEy
+MjkyODEsLTE5MDQ3OTY2OTksLTE5NTE5MDcxNzAsMTA1NzE4MD
+A3MywxNTcwNDMzMTI0LC0xMDMxNDM3MjMzLC04NjE0OTk1MTQs
+LTEyOTUxMDY0MjcsNjUyMTAyOTUxLDE3OTE0ODU0NjksMTIwMz
+g5MDIwNCwtMzQ3MDg0NjUzLDEyNjkwMjU0NTUsMTg4MzY0OTY4
+LDIxMzM5OTQ3NjFdfQ==
 -->
